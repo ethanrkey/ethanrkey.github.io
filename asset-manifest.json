@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ethanrkey.github.io/static/css/main.856203ca.css",
+    "main.js": "/ethanrkey.github.io/static/js/main.a35b347e.js",
+    "static/js/453.195b869a.chunk.js": "/ethanrkey.github.io/static/js/453.195b869a.chunk.js",
+    "index.html": "/ethanrkey.github.io/index.html",
+    "main.856203ca.css.map": "/ethanrkey.github.io/static/css/main.856203ca.css.map",
+    "main.a35b347e.js.map": "/ethanrkey.github.io/static/js/main.a35b347e.js.map",
+    "453.195b869a.chunk.js.map": "/ethanrkey.github.io/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856203ca.css",
+    "static/js/main.a35b347e.js"
+  ]
+}
